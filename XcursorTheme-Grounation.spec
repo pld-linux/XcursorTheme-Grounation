@@ -3,10 +3,10 @@ Summary:	A cursor theme Grounation
 Summary(pl):	Motyw kursorów Grounation
 Name:		XcursorTheme-%{_name}
 Version:	0.3
-Release:	0.1
+Release:	0.2
 License:	GPL v2
 Group:		Themes
-Source0:	http://dvornik.uw.hu/galeria/xkurzor/%{_name}-%{version}.tar.bz2
+Source0:	http://www.kde-look.org/content/files/14484-%{_name}-%{version}.tar.bz2
 # Source0-md5:	2a448239a339ed3e87991d3ab621a24d
 URL:		http://dvornik.uw.hu/
 BuildRequires:	XFree86 >= 4.3
