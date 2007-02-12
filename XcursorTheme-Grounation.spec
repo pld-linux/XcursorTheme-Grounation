@@ -1,6 +1,6 @@
 %define		_name Grounation
 Summary:	A cursor theme Grounation
-Summary(pl):	Motyw kursorów Grounation
+Summary(pl.UTF-8):   Motyw kursorÃ³w Grounation
 Name:		XcursorTheme-%{_name}
 Version:	0.3
 Release:	0.2
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 A cursor theme Grounation.
 
-%description -l pl
-Motyw kursorów Grounation.
+%description -l pl.UTF-8
+Motyw kursorÃ³w Grounation.
 
 %prep
 %setup -q -n %{_name}-%{version}
