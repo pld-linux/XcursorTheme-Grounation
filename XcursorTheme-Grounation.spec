@@ -1,6 +1,6 @@
 %define		_name Grounation
 Summary:	A cursor theme Grounation
-Summary(pl.UTF-8):   Motyw kursorów Grounation
+Summary(pl.UTF-8):	Motyw kursorów Grounation
 Name:		XcursorTheme-%{_name}
 Version:	0.3
 Release:	0.2
